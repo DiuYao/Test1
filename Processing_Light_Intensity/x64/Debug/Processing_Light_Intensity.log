@@ -1,0 +1,6 @@
+﻿  ComputeRealProj.cpp
+C:\Users\YaoXl\Desktop\CTCode\Processing_Light_Intensity\ComputeRealProj.cpp(51,32): warning C4267: “参数”: 从“size_t”转换到“long”，可能丢失数据
+C:\Users\YaoXl\Desktop\CTCode\Processing_Light_Intensity\ComputeRealProj.cpp(63,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  Processing_Light_Intensity.vcxproj -> C:\Users\YaoXl\Desktop\CTCode\Processing_Light_Intensity\x64\Debug\Processing_Light_Intensity.exe
